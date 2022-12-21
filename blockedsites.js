@@ -1,4 +1,4 @@
-let blocked_sites_v2 = [
+let blocked_sites = [
 "*://*.localhost/*",
 "*://*.analytics.163.com/*",
 "*://*.mt.analytics.163.com/*",
